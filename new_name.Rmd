@@ -1,0 +1,17 @@
+```{r}
+library(tidyverse)
+#Load the dataset
+adclick <- read.csv("advertising.csv")
+
+
+#Carrying out Exploratory Data Analysis
+
+#Check the head of the dataset
+
+head(adclick)
+```
+
+```{r}
+
+
+```
